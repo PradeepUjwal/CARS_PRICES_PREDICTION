@@ -41,4 +41,4 @@ if st.button('Predict Selling Price'):
 
 # Footer
 st.markdown("---")
-st.markdown("Created by Pradeep Inspired by Paul Walker - LET'S GO 🚗💨")
+st.markdown("Created by Pradeep,Vivek,Sahithi,Spadana - LET'S GO 🚗💨")
